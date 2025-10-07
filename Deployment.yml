@@ -10,7 +10,7 @@ spec:
       app: cycle
   template:
     metadata:
-      Labels:
+      labels:
         app: cycle
     spec:
       containers:
